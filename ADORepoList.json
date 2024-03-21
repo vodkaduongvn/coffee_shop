@@ -2,8 +2,8 @@
     "RepoList" : [
     {
         "AzureRepoName":"coffee_shop",
-        "ADOCloneURL":"dev.azure.com/vodkaduongvn0834/coffee_shop/_git/coffee_shop",
-        "GitHubCloneURL":"github.com/vodkaduongvn/coffee_shop.git"
+        "ADOCloneURL":"github.com/vodkaduongvn/coffee_shop.git",
+        "GitHubCloneURL":"dev.azure.com/vodkaduongvn0834/coffee_shop/_git/coffee_shop"
     }
     ]
 }
